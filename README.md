@@ -13,7 +13,7 @@
 
 - 💬 Ask me about HTML , CSS & Figma
 
-- 📫 How to reach me **Shivani.2408@gmail.com**
+- 📫 How to reach me **jshivani.2408@gmail.com**
 
 - ⚡ Fun fact **I'm fairly good with sketching😎**
 
