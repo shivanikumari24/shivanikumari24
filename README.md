@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shivani</h1>
+<h1 align="center">Hi 👋 , I'm Shivani</h1>
 <h3 align="center">In sort, Tech Enthusiast with passion for Web Development!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47g8yadneydhi1djozcyhelcrj8ip7lvpk7a3a8i2s&rid=giphy.gif&ct=g">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN.**
 
-- 👯 I’m looking to collaborate with **other developers in community**
+- 👯 I’m looking to collaborate with **other developers**
 
 - 💬 Ask me about HTML , CSS & Figma
 
