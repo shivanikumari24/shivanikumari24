@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanikumari24&label=Profile%20views&color=0e75b6&style=flat" alt="shivanikumari24" /> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **my Personal Project**
 
 - 🌱 I’m currently learning **MERN.**
 
