@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 💬 Ask me about HTML , CSS & Figma
+- 💬 Ask me about HTML , CSS , JavaScript , React.Js , MongoDB , Express & Figma.
 
 - 📫 How to reach me **jshivani.2408@gmail.com**
 
